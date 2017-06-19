@@ -1,0 +1,5 @@
+== Intro to Machine Learning
+
+=== Download and Install Anaconda
+https://www.continuum.io/downloads
+
